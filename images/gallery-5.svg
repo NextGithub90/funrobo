@@ -1,0 +1,87 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="galleryGradient5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3C9C8C;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#FF0060;stop-opacity:0.7" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="300" fill="url(#galleryGradient5)"/>
+  
+  <!-- Library Scene -->
+  <rect x="30" y="50" width="340" height="200" rx="15" fill="white" opacity="0.95"/>
+  
+  <!-- Bookshelves -->
+  <rect x="50" y="70" width="20" height="120" fill="#8B4513"/>
+  <rect x="52" y="75" width="16" height="8" fill="#FF0060" opacity="0.7"/>
+  <rect x="52" y="85" width="16" height="8" fill="#3C9C8C" opacity="0.7"/>
+  <rect x="52" y="95" width="16" height="8" fill="#F53D7A" opacity="0.7"/>
+  <rect x="52" y="105" width="16" height="8" fill="#FF0060" opacity="0.7"/>
+  <rect x="52" y="115" width="16" height="8" fill="#3C9C8C" opacity="0.7"/>
+  <rect x="52" y="125" width="16" height="8" fill="#F53D7A" opacity="0.7"/>
+  <rect x="52" y="135" width="16" height="8" fill="#FF0060" opacity="0.7"/>
+  <rect x="52" y="145" width="16" height="8" fill="#3C9C8C" opacity="0.7"/>
+  <rect x="52" y="155" width="16" height="8" fill="#F53D7A" opacity="0.7"/>
+  <rect x="52" y="165" width="16" height="8" fill="#FF0060" opacity="0.7"/>
+  
+  <rect x="330" y="70" width="20" height="120" fill="#8B4513"/>
+  <rect x="332" y="75" width="16" height="8" fill="#3C9C8C" opacity="0.7"/>
+  <rect x="332" y="85" width="16" height="8" fill="#FF0060" opacity="0.7"/>
+  <rect x="332" y="95" width="16" height="8" fill="#F53D7A" opacity="0.7"/>
+  <rect x="332" y="105" width="16" height="8" fill="#3C9C8C" opacity="0.7"/>
+  <rect x="332" y="115" width="16" height="8" fill="#FF0060" opacity="0.7"/>
+  <rect x="332" y="125" width="16" height="8" fill="#F53D7A" opacity="0.7"/>
+  <rect x="332" y="135" width="16" height="8" fill="#3C9C8C" opacity="0.7"/>
+  <rect x="332" y="145" width="16" height="8" fill="#FF0060" opacity="0.7"/>
+  <rect x="332" y="155" width="16" height="8" fill="#F53D7A" opacity="0.7"/>
+  <rect x="332" y="165" width="16" height="8" fill="#3C9C8C" opacity="0.7"/>
+  
+  <!-- Study Tables -->
+  <rect x="100" y="140" width="80" height="40" rx="4" fill="#D2691E" opacity="0.8"/>
+  <rect x="220" y="140" width="80" height="40" rx="4" fill="#D2691E" opacity="0.8"/>
+  
+  <!-- Students studying -->
+  <circle cx="130" cy="120" r="12" fill="#FF0060" opacity="0.8"/>
+  <circle cx="160" cy="120" r="12" fill="#3C9C8C" opacity="0.8"/>
+  <circle cx="250" cy="120" r="12" fill="#F53D7A" opacity="0.8"/>
+  <circle cx="280" cy="120" r="12" fill="#FF0060" opacity="0.8"/>
+  
+  <!-- Books on tables -->
+  <rect x="110" y="150" width="12" height="8" rx="1" fill="#FF0060"/>
+  <rect x="125" y="152" width="10" height="6" rx="1" fill="#3C9C8C"/>
+  <rect x="140" y="148" width="14" height="10" rx="1" fill="#F53D7A"/>
+  
+  <rect x="230" y="150" width="12" height="8" rx="1" fill="#3C9C8C"/>
+  <rect x="245" y="152" width="10" height="6" rx="1" fill="#FF0060"/>
+  <rect x="260" y="148" width="14" height="10" rx="1" fill="#F53D7A"/>
+  
+  <!-- Laptops -->
+  <rect x="155" y="150" width="20" height="15" rx="2" fill="#333"/>
+  <rect x="157" y="152" width="16" height="11" rx="1" fill="#4A90E2"/>
+  
+  <rect x="275" y="150" width="20" height="15" rx="2" fill="#333"/>
+  <rect x="277" y="152" width="16" height="11" rx="1" fill="#4A90E2"/>
+  
+  <!-- Reading lamps -->
+  <g transform="translate(120, 100)">
+    <rect x="0" y="20" width="2" height="25" fill="#333"/>
+    <ellipse cx="1" cy="15" rx="8" ry="5" fill="#FFD700" opacity="0.6"/>
+  </g>
+  
+  <g transform="translate(270, 100)">
+    <rect x="0" y="20" width="2" height="25" fill="#333"/>
+    <ellipse cx="1" cy="15" rx="8" ry="5" fill="#FFD700" opacity="0.6"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="200" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Library Study</text>
+  <text x="200" y="50" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" opacity="0.8">Quiet Learning Environment</text>
+  
+  <!-- Floating book pages -->
+  <g transform="translate(90, 80)" opacity="0.3">
+    <rect x="0" y="0" width="8" height="10" rx="1" fill="white"/>
+    <rect x="12" y="5" width="6" height="8" rx="1" fill="white"/>
+    <rect x="6" y="15" width="10" height="12" rx="1" fill="white"/>
+  </g>
+</svg>

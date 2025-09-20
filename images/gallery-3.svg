@@ -1,0 +1,71 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="galleryGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3C9C8C;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#F53D7A;stop-opacity:0.7" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="300" fill="url(#galleryGradient3)"/>
+  
+  <!-- Study Room -->
+  <rect x="30" y="60" width="340" height="180" rx="12" fill="white" opacity="0.95"/>
+  
+  <!-- Round Table -->
+  <ellipse cx="200" cy="150" rx="80" ry="50" fill="#8B4513" opacity="0.7"/>
+  <ellipse cx="200" cy="145" rx="75" ry="45" fill="#D2691E" opacity="0.8"/>
+  
+  <!-- Students around table -->
+  <circle cx="150" cy="120" r="15" fill="#FF0060" opacity="0.8"/>
+  <circle cx="250" cy="120" r="15" fill="#3C9C8C" opacity="0.8"/>
+  <circle cx="170" cy="180" r="15" fill="#F53D7A" opacity="0.8"/>
+  <circle cx="230" cy="180" r="15" fill="#FF0060" opacity="0.8"/>
+  <circle cx="200" cy="100" r="15" fill="#3C9C8C" opacity="0.8"/>
+  
+  <!-- Books and materials on table -->
+  <rect x="180" y="135" width="12" height="8" rx="1" fill="#FF0060"/>
+  <rect x="195" y="138" width="10" height="6" rx="1" fill="#3C9C8C"/>
+  <rect x="210" y="140" width="14" height="10" rx="1" fill="#F53D7A"/>
+  
+  <!-- Notebooks -->
+  <rect x="175" y="155" width="15" height="10" rx="1" fill="#e9ecef"/>
+  <rect x="205" y="150" width="15" height="10" rx="1" fill="#e9ecef"/>
+  
+  <!-- Pencils -->
+  <rect x="185" y="148" width="1" height="12" fill="#FFD700"/>
+  <rect x="215" y="145" width="1" height="12" fill="#FFD700"/>
+  
+  <!-- Laptop -->
+  <rect x="160" y="140" width="20" height="15" rx="2" fill="#333"/>
+  <rect x="162" y="142" width="16" height="11" rx="1" fill="#4A90E2"/>
+  
+  <!-- Speech bubbles for discussion -->
+  <ellipse cx="130" cy="100" rx="15" ry="8" fill="white" opacity="0.8"/>
+  <text x="130" y="103" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Math?</text>
+  
+  <ellipse cx="270" cy="105" rx="18" ry="10" fill="white" opacity="0.8"/>
+  <text x="270" y="108" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle">Physics!</text>
+  
+  <!-- Whiteboard in background -->
+  <rect x="50" y="80" width="60" height="40" rx="3" fill="#f8f9fa"/>
+  <rect x="52" y="82" width="56" height="36" rx="2" fill="white"/>
+  
+  <!-- Equations on whiteboard -->
+  <text x="80" y="95" font-family="Arial, sans-serif" font-size="6" fill="#333" text-anchor="middle">E = mc²</text>
+  <text x="80" y="105" font-family="Arial, sans-serif" font-size="6" fill="#333" text-anchor="middle">F = ma</text>
+  
+  <!-- Title -->
+  <text x="200" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Group Study Session</text>
+  <text x="200" y="50" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" opacity="0.8">Collaborative Learning</text>
+  
+  <!-- Decorative elements -->
+  <g transform="translate(320, 200)" opacity="0.3">
+    <circle cx="0" cy="0" r="4" fill="white"/>
+    <circle cx="12" cy="6" r="3" fill="white"/>
+    <circle cx="6" cy="15" r="5" fill="white"/>
+  </g>
+  
+  <!-- Light rays -->
+  <path d="M350,70 L360,60 M355,75 L365,65 M345,65 L355,55" stroke="white" stroke-width="1" opacity="0.4"/>
+</svg>
