@@ -199,7 +199,7 @@ function initContactForm() {
       whatsappMessage += "\nMohon informasi lebih lanjut mengenai program dan proses pendaftaran. Terima kasih!";
 
       // WhatsApp number
-      const phoneNumber = "+6285103553888";
+        const phoneNumber = "6285701119888";
       const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(whatsappMessage)}`;
 
       // Redirect to WhatsApp
@@ -298,7 +298,7 @@ function initWhatsApp() {
     whatsappMessage += "\nMohon informasi lebih lanjut mengenai program dan proses pendaftaran. Terima kasih!";
 
     // WhatsApp number
-    const phoneNumber = "+6285103553888";
+    const phoneNumber = "6285701119888";
     const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(whatsappMessage)}`;
 
     // Open WhatsApp

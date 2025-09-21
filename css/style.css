@@ -213,8 +213,9 @@ h6 {
 }
 
 .hero-title {
+  font-family: "Comfortaa", sans-serif;
   font-size: 4rem;
-  font-weight: 900;
+  font-weight: 700;
   color: var(--text-light);
   margin-bottom: 1.5rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
@@ -242,6 +243,7 @@ h6 {
   }
 
   .hero-title {
+    font-family: "Comfortaa", sans-serif;
     font-size: 2.5rem;
     margin-bottom: 1rem;
   }
@@ -268,6 +270,7 @@ h6 {
 
 @media (max-width: 576px) {
   .hero-title {
+    font-family: "Comfortaa", sans-serif;
     font-size: 2rem;
   }
 
@@ -1062,6 +1065,7 @@ footer {
 /* ===== RESPONSIVE DESIGN ===== */
 @media (max-width: 768px) {
   .hero-title {
+    font-family: "Comfortaa", sans-serif;
     font-size: 2.5rem;
   }
 
@@ -1097,7 +1101,11 @@ footer {
 
 @media (max-width: 576px) {
   .hero-title {
+    font-family: "Comfortaa", sans-serif;
     font-size: 2rem;
+  }
+  .hp {
+    margin-top: 3rem;
   }
 
   .hero-subtitle {
